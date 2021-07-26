@@ -1,0 +1,1 @@
+# see file script.salary.py working from the command line
