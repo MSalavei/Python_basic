@@ -1,0 +1,7 @@
+Ivanov 25000
+Petrov 19000
+Sidorov 21000
+Kozlov 18000
+Bender 30000
+Petrovskaya 15000
+Ivanova 32000
